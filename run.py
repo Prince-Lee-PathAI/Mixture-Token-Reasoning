@@ -15,8 +15,6 @@ from transformers.models.llama.modeling_llama import LlamaDecoderLayer
 from transformers.models.gpt2.modeling_gpt2 import GPT2Block
 import huggingface_hub
 
-huggingface_hub.login("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")
-
 from coconut import Coconut_shared, Coconut, Coconut_no_shared
 from dataset import (
     get_dataset,
