@@ -5,7 +5,7 @@ The project is an improvement from [COCONUT](https://github.com/facebookresearch
 
 Here's an overview of our method:
 
-![Figure 1](./assests/workflow.png)
+![Figure 1](./assets/workflow.png)
 
 ## :mag: TODO
 <font color="red">**We are currently organizing all the code. Stay tuned!**</font>
